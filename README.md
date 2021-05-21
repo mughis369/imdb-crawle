@@ -26,5 +26,5 @@ Following switches can be used to do some extra stuff
 
 
 # Example:
-    ```python main.py -h```    # prints the help page
-    ```python main.py```       # starts the program for interactive session
+    python main.py -h    # prints the help page
+    python main.py       # starts the program for interactive session
