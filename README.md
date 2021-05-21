@@ -25,6 +25,6 @@ Following switches can be used to do some extra stuff
  ```-h``` : this switch shows the help page.  
 
 
-# Example:
+# Example
     python main.py -h    # prints the help page
     python main.py       # starts the program for interactive session
